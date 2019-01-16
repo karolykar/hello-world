@@ -1,2 +1,3 @@
 # hello-world
 Betanulási fázis
+Ennyit erről...
